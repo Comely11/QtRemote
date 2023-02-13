@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/drives.png</file>
+        <file>image/file.png</file>
+    </qresource>
+</RCC>
